@@ -132,7 +132,7 @@ function App() {
             {week.map((temp, i) => {
               return (
                 <div className='card' key={temp.time}>
-                  <div className='day'>{i === 0 ? 'Tomorrow' : temp.time}</div>&&
+                  <div className='day'>{i === 0 ? 'Tomorrow' : temp.time}</div>
                   <img src={getCode(temp.code)?.img} />
                   <div className='temperature'>
                     <span>{temp.max}°C</span>
