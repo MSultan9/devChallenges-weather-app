@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://gregarious-pika-998c74.netlify.app/">
       Demo
     </a>
     <span> | </span>
